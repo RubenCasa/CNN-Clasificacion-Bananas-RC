@@ -1,6 +1,6 @@
 # 🍌 Clasificación de Bananas con CNN
 
-![0004](https://github.com/user-attachments/assets/8565a478-993f-4bfc-b2fc-2f92a5413cc0) <img width="2048" height="2047" alt="image" src="https://github.com/user-attachments/assets/4eb0b22e-a59c-4b94-bd14-efb0ca06dd72" />
+![0004](https://github.com/user-attachments/assets/8565a478-993f-4bfc-b2fc-2f92a5413cc0) <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/4eb0b22e-a59c-4b94-bd14-efb0ca06dd72" />
 
 
 
