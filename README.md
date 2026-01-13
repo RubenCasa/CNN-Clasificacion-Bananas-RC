@@ -1,4 +1,4 @@
- <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/4eb0b22e-a59c-4b94-bd14-efb0ca06dd72" /> 
+
 # 🍌 Clasificación de Bananas con CNN 
  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/81cac741-92f9-47f6-b491-7fd76578e4ae" />
 
