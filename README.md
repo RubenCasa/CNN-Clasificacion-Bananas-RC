@@ -1,6 +1,7 @@
 # 🍌 Clasificación de Bananas con CNN
 
-![0004](https://github.com/user-attachments/assets/8565a478-993f-4bfc-b2fc-2f92a5413cc0)
+![0004](https://github.com/user-attachments/assets/8565a478-993f-4bfc-b2fc-2f92a5413cc0) <img width="2048" height="2047" alt="image" src="https://github.com/user-attachments/assets/4eb0b22e-a59c-4b94-bd14-efb0ca06dd72" />
+
 
 
 Proyecto de clasificación de imágenes de bananas usando Redes Neuronales Convolucionales (CNN) y Transfer Learning.
@@ -77,5 +78,5 @@ Ruben Dario Casa.
 ##  Licencia
 
 Este proyecto es para fines educativos.
-<img width="1024" height="441" alt="image" src="https://github.com/user-attachments/assets/15f4771f-fecc-48ed-95ee-3b72a74c7c20" />
+
 
