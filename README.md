@@ -12,6 +12,7 @@ Este proyecto compara dos enfoques para clasificar bananas según su estado:
 - **Transfer Learning**: Usando ResNet18 preentrenado en ImageNet
 
 ### Clases del Dataset
+ ## MI PROPIO DATASET
 | Clase | Cantidad |
 |-------|----------|
 | NORMAL | 26 imágenes |
