@@ -77,3 +77,5 @@ Ruben Dario Casa.
 ##  Licencia
 
 Este proyecto es para fines educativos.
+<img width="1024" height="441" alt="image" src="https://github.com/user-attachments/assets/15f4771f-fecc-48ed-95ee-3b72a74c7c20" />
+
